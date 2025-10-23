@@ -11,7 +11,7 @@ I am passionate about <b>Game Development</b> and <b>Artificial Intelligence</b>
 
 <h3>🤖 Artificial Intelligence and Machine Learning</h3>
 <ul>
- <li><a href="#">AI in Gaming: Learning and Adaptation in an Infinite Scroller</a></li>
+ <li><a href="https://github.com/Daarkss1/Licenta">AI in Gaming: Learning and Adaptation in an Infinite Scroller</a></li>
 </ul>
 
 ---
