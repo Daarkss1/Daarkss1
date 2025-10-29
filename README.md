@@ -12,7 +12,12 @@ I am passionate about <b>Game Development</b> and <b>Artificial Intelligence</b>
 <h3>🤖 Artificial Intelligence and Machine Learning</h3>
 <ul>
  <li><a href="https://github.com/Daarkss1/Licenta">AI in Gaming: Learning and Adaptation in an Infinite Scroller</a></li>
- <li><a href="https://github.com/Alexandra7a/fuzzyminds">Depression and Anxiety Detection</a></li>
+ <li><a href="https://github.com/Alexandra7a/fuzzyminds">Depression and Anxiety Detection</a> — contributor as part of a university research team</li>
+</ul>
+
+<h3>🧱 Object-Oriented Programming</h3>
+<ul>
+ <li><a href="https://github.com/Daarkss1/Book-Store">Book Store — OOP Project</a></li>
 </ul>
 
 ---
